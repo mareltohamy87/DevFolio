@@ -91,7 +91,7 @@ Improving code structure and accessibility
 <img width="1817" height="691" alt="About-me" src="https://github.com/user-attachments/assets/78d96f8f-9dcb-4d11-a65c-677e1df81666" />
 
 ---
-(يمكنك إضافة صورة Screenshot هن
+
 🔗 Live Demo
 
 (https://mareltohamy87.github.io/DevFolio/)
